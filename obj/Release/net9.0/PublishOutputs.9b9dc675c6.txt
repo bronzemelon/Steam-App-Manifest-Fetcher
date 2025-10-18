@@ -1,0 +1,6 @@
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Release\net9.0\publish\Steam App Manifest Fetcher.exe
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Release\net9.0\publish\Steam App Manifest Fetcher.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Release\net9.0\publish\Steam App Manifest Fetcher.deps.json
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Release\net9.0\publish\Steam App Manifest Fetcher.runtimeconfig.json
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Release\net9.0\publish\Steam App Manifest Fetcher.pdb
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Release\net9.0\publish\Newtonsoft.Json.dll

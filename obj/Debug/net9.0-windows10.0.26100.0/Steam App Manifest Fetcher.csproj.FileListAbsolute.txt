@@ -1,0 +1,19 @@
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.exe
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.deps.json
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.runtimeconfig.json
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.pdb
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Newtonsoft.Json.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\bin\Debug\net9.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.csproj.AssemblyReference.cache
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.AssemblyInfoInputs.cache
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.AssemblyInfo.cs
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.csproj.CoreCompileInputs.cache
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam Ap.1390795E.Up2Date
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\refint\Steam App Manifest Fetcher.dll
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.pdb
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\Steam App Manifest Fetcher.genruntimeconfig.cache
+C:\Users\melon\Documents\Steam App Manifest Fetcher\obj\Debug\net9.0-windows10.0.26100.0\ref\Steam App Manifest Fetcher.dll
