@@ -13,11 +13,14 @@ It just appears in your Steam library and will prompt you to buy if you don't ow
 ## Instructions
 ### Installation
 Go to [Releases](https://github.com/bronzemelon/Steam-App-Manifest-Fetcher/releases) and download the appropiate file for your platform.\
-Extract the zip folder and run the appropiate executable.
+Extract the zip folder and run the appropiate executable. It should look like the following.
 
-For Windows
-
+For Windows\
+![](https://private-user-images.githubusercontent.com/52508286/502867402-adc716a7-e214-441f-a11d-4ac88d765b18.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA3ODkwNDksIm5iZiI6MTc2MDc4ODc0OSwicGF0aCI6Ii81MjUwODI4Ni81MDI4Njc0MDItYWRjNzE2YTctZTIxNC00NDFmLWExMWQtNGFjODhkNzY1YjE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDE4VDExNTkwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5MmQ0MDYyN2IyYTI0MTZmZGU0MTIxYzBjNzFkMTMzZmU4MDVkN2UzMGYyYzRmMmJlMjA0ZjU4Yzc5YmU5MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.X6muBHN7IqtF0pafzSWVG9Z3UXryK6kZh0OgPd4Z9ms)\
 For Linux
+~~~
+$ ./"Steam App Manifest Fetcher"
+~~~
 ### First Launch
 ~~~
 Index: ...
