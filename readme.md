@@ -52,12 +52,17 @@ Functions like `Generate Single App Manifest` but with multiple app ids. Note th
 >Powershell example: `PS> & '.\Steam App Manifest Fetcher' 3489700 1151640 2420110`\
 Bash example: `$ ./"Steam App Manifest Fetcher" 3489700 1151640 2420110`
 ### Search Applications
-Type in the app name to search for any app.\
+~~~
+Search app: ...
+~~~
 This will search the entire database stored locally (if it exists) and return a list of all apps containing the searched name.\
 Make sure the name is properly spelled as the function that takes in your search input is case-sensitive.
 
 Note down all of the app ids from the desired apps, pick `Generate Multiple App Manifest` and supply all app ids into that function.
 ### Update Database
+~~~
+Downloding database...
+~~~
 This will download the entire database and stores it locally. It is around 13.5 MB in size.\
 Do not update database manually unless you have to.
 Such cases include an app not being in the database or that the database itself got corrupted.
