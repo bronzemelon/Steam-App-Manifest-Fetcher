@@ -1,5 +1,8 @@
 # Steam App Manifest Fetcher
 
+# NOTICE
+It seems the Steam has deprecated the API and now recommends developers to use a newer `IStoreService` interface with `GetAppList` as its method. Due to this API requiring an API key and the open source nature of this program, I can't simply put my API key out there. As such, this repository will be archived.
+
 **Welcome to Steam App Manifest Fetcher!**
 
 This is a program that fetches and generates an app manifest based on an app id(s) provided.
